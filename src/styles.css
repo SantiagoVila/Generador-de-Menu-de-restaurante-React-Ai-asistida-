@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: linear-gradient(160deg, #f8f9fa 0%, #eef6ff 100%);
+  min-height: 100vh;
+}
+
+.app-wrapper {
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+textarea.form-control {
+  resize: vertical;
+}
+
+@media (max-width: 576px) {
+  .display-6 {
+    font-size: 1.75rem;
+  }
+}

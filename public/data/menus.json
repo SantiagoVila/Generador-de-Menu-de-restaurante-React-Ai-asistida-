@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta Primavera",
+    "ingredients": ["pasta", "tomate", "albahaca", "ajo"],
+    "category": "Principal",
+    "description": "Pasta salteada con verduras frescas y toque de albahaca."
+  },
+  {
+    "id": 2,
+    "name": "Ensalada Mediterránea",
+    "ingredients": ["lechuga", "tomate", "pepino", "queso feta", "aceitunas"],
+    "category": "Entrada",
+    "description": "Ensalada ligera con sabores mediterráneos y vinagreta cítrica."
+  },
+  {
+    "id": 3,
+    "name": "Tacos de Pollo",
+    "ingredients": ["pollo", "tortilla", "cebolla", "cilantro", "limón"],
+    "category": "Principal",
+    "description": "Tacos jugosos de pollo con cebolla morada y cilantro fresco."
+  },
+  {
+    "id": 4,
+    "name": "Sopa de Verduras",
+    "ingredients": ["zanahoria", "apio", "papa", "cebolla", "caldo"],
+    "category": "Entrada",
+    "description": "Sopa caliente y reconfortante con vegetales de temporada."
+  },
+  {
+    "id": 5,
+    "name": "Brownie con Helado",
+    "ingredients": ["chocolate", "harina", "huevo", "mantequilla", "helado"],
+    "category": "Postre",
+    "description": "Brownie tibio de chocolate servido con helado cremoso."
+  },
+  {
+    "id": 6,
+    "name": "Risotto de Hongos",
+    "ingredients": ["arroz", "hongos", "parmesano", "caldo", "ajo"],
+    "category": "Principal",
+    "description": "Risotto cremoso con hongos salteados y queso parmesano."
+  }
+]
