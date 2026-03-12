@@ -1,7 +1,14 @@
+:root {
+  --app-surface: #ffffff;
+  --app-bg-start: #f8f9fa;
+  --app-bg-end: #eaf2ff;
+  --app-primary: #0d6efd;
+}
+
 body {
   margin: 0;
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  background: linear-gradient(160deg, #f8f9fa 0%, #eef6ff 100%);
+  background: linear-gradient(160deg, var(--app-bg-start) 0%, var(--app-bg-end) 100%);
   min-height: 100vh;
 }
 
@@ -11,10 +18,19 @@ body {
 
 .card {
   border-radius: 1rem;
+  background: var(--app-surface);
 }
 
 textarea.form-control {
   resize: vertical;
+}
+
+.ingredient-chip {
+  color: #183153;
+}
+
+.btn-primary {
+  background: var(--app-primary);
 }
 
 @media (max-width: 576px) {
