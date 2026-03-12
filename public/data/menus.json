@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta Primavera",
+    "ingredients": ["pasta", "tomate", "albahaca", "ajo", "aceite de oliva"],
+    "category": "Principal",
+    "description": "Pasta salteada con verduras frescas y toque de albahaca.",
+    "difficulty": "Fácil",
+    "prepTime": 25,
+    "servings": 2,
+    "steps": [
+      "Hervir la pasta hasta que quede al dente.",
+      "Sofreír ajo y tomate en aceite de oliva.",
+      "Mezclar pasta con la salsa y albahaca fresca.",
+      "Servir con queso rallado opcional."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ensalada Mediterránea",
+    "ingredients": ["lechuga", "tomate", "pepino", "queso feta", "aceitunas", "aceite de oliva"],
+    "category": "Entrada",
+    "description": "Ensalada ligera con sabores mediterráneos y vinagreta cítrica.",
+    "difficulty": "Fácil",
+    "prepTime": 12,
+    "servings": 2,
+    "steps": [
+      "Lavar y cortar la lechuga, tomate y pepino.",
+      "Agregar aceitunas y cubos de queso feta.",
+      "Aliñar con aceite de oliva, limón y sal.",
+      "Mezclar suavemente y servir fría."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tacos de Pollo",
+    "ingredients": ["pollo", "tortilla", "cebolla", "cilantro", "limón", "pimentón"],
+    "category": "Principal",
+    "description": "Tacos jugosos de pollo con cebolla morada y cilantro fresco.",
+    "difficulty": "Media",
+    "prepTime": 30,
+    "servings": 3,
+    "steps": [
+      "Cocinar el pollo con pimentón, sal y pimienta.",
+      "Calentar las tortillas en sartén.",
+      "Rellenar con pollo, cebolla y cilantro.",
+      "Finalizar con jugo de limón."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sopa de Verduras",
+    "ingredients": ["zanahoria", "apio", "papa", "cebolla", "caldo", "ajo"],
+    "category": "Entrada",
+    "description": "Sopa caliente y reconfortante con vegetales de temporada.",
+    "difficulty": "Fácil",
+    "prepTime": 35,
+    "servings": 4,
+    "steps": [
+      "Picar todas las verduras en cubos medianos.",
+      "Sofreír cebolla y ajo hasta dorar.",
+      "Agregar verduras y caldo, cocinar 25 minutos.",
+      "Rectificar sal y servir caliente."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Brownie con Helado",
+    "ingredients": ["chocolate", "harina", "huevo", "mantequilla", "helado", "azúcar"],
+    "category": "Postre",
+    "description": "Brownie tibio de chocolate servido con helado cremoso.",
+    "difficulty": "Media",
+    "prepTime": 40,
+    "servings": 6,
+    "steps": [
+      "Derretir chocolate con mantequilla.",
+      "Batir huevos con azúcar e incorporar harina.",
+      "Hornear 25 minutos a 180°C.",
+      "Servir tibio con una bola de helado."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Risotto de Hongos",
+    "ingredients": ["arroz", "hongos", "parmesano", "caldo", "ajo", "cebolla"],
+    "category": "Principal",
+    "description": "Risotto cremoso con hongos salteados y queso parmesano.",
+    "difficulty": "Difícil",
+    "prepTime": 45,
+    "servings": 3,
+    "steps": [
+      "Sofreír cebolla, ajo y hongos.",
+      "Añadir arroz y nacarar 2 minutos.",
+      "Agregar caldo caliente de a poco, removiendo constantemente.",
+      "Finalizar con parmesano y mantequilla."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ceviche de Pescado",
+    "ingredients": ["pescado", "limón", "cebolla", "cilantro", "ají", "sal"],
+    "category": "Entrada",
+    "description": "Ceviche fresco marinado en cítricos con toque picante.",
+    "difficulty": "Media",
+    "prepTime": 20,
+    "servings": 2,
+    "steps": [
+      "Cortar el pescado en cubos pequeños.",
+      "Marinar con limón, sal y ají por 10 minutos.",
+      "Agregar cebolla en pluma y cilantro.",
+      "Servir inmediatamente bien frío."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pizza Margarita",
+    "ingredients": ["masa", "tomate", "mozzarella", "albahaca", "aceite de oliva"],
+    "category": "Principal",
+    "description": "Pizza clásica italiana con tomate, mozzarella y albahaca.",
+    "difficulty": "Media",
+    "prepTime": 35,
+    "servings": 3,
+    "steps": [
+      "Estirar la masa sobre una bandeja enharinada.",
+      "Cubrir con salsa de tomate y mozzarella.",
+      "Hornear a temperatura alta hasta dorar bordes.",
+      "Agregar albahaca fresca y aceite de oliva al salir."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hamburguesa Gourmet",
+    "ingredients": ["carne", "pan", "queso", "lechuga", "tomate", "cebolla"],
+    "category": "Principal",
+    "description": "Hamburguesa casera jugosa con toppings frescos.",
+    "difficulty": "Fácil",
+    "prepTime": 25,
+    "servings": 2,
+    "steps": [
+      "Formar medallones de carne y sazonar.",
+      "Cocinar a la plancha al punto deseado.",
+      "Tostar pan y montar con queso y vegetales.",
+      "Servir con papas o ensalada."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Cheesecake de Frutos Rojos",
+    "ingredients": ["queso crema", "galletas", "mantequilla", "azúcar", "frutos rojos"],
+    "category": "Postre",
+    "description": "Cheesecake cremoso con cobertura de frutos rojos.",
+    "difficulty": "Media",
+    "prepTime": 50,
+    "servings": 8,
+    "steps": [
+      "Preparar base de galletas trituradas con mantequilla.",
+      "Batir queso crema con azúcar y huevos.",
+      "Hornear a baño maría hasta cuajar.",
+      "Refrigerar y decorar con frutos rojos."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Bowl Vegano de Quinoa",
+    "ingredients": ["quinoa", "garbanzos", "palta", "tomate", "espinaca", "limón"],
+    "category": "Principal",
+    "description": "Bowl nutritivo con quinoa, vegetales frescos y proteína vegetal.",
+    "difficulty": "Fácil",
+    "prepTime": 22,
+    "servings": 2,
+    "steps": [
+      "Cocinar quinoa y dejar enfriar.",
+      "Mezclar con espinaca, tomate y garbanzos.",
+      "Agregar palta en cubos.",
+      "Aliñar con limón, aceite y sal."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Lasaña de Carne",
+    "ingredients": ["pasta", "carne", "tomate", "queso", "cebolla", "ajo"],
+    "category": "Principal",
+    "description": "Lasaña gratinada con salsa de carne y queso fundido.",
+    "difficulty": "Difícil",
+    "prepTime": 60,
+    "servings": 6,
+    "steps": [
+      "Preparar salsa de carne con tomate, cebolla y ajo.",
+      "Armar capas de pasta, salsa y queso.",
+      "Hornear 35 minutos hasta gratinar.",
+      "Reposar 10 minutos antes de servir."
+    ]
+  }
+]
