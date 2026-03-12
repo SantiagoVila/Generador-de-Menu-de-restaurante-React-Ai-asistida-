@@ -66,7 +66,7 @@ El layout usa grid de Bootstrap y ajustes CSS para adaptarse a móvil y escritor
 
 ## Autores
 
-- Tu Nombre
+- Santiago Vila
 
 ## Descripción breve (portfolio)
 
